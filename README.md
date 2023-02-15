@@ -1,4 +1,6 @@
-# 算法设计与分析》课程的课件
+# 《算法设计与分析》课程资料
+
+[课件ppt](https://github.com/hwdong-net/DAA/tree/main/ppt)
 
 ## 我在udemy上的课程：
 
