@@ -2,6 +2,10 @@
 
 [课件ppt](https://github.com/hwdong-net/DAA/tree/main/ppt)
 
+# 我的书：
+
+《解剖深度学习-从9编写深度学习库》电子版链接： [https://hwdong.net/2023/05/05/myDLBook/](https://hwdong.net/2023/05/05/myDLBook/)
+
 # 我在udemy上的课程：
 
 我在udemy上课程的学生人数一直在增长，由于udemy上的课程价格特别低，所以一直没有分享出来，现在分享出来：
