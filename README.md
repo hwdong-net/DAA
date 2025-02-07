@@ -1,5 +1,9 @@
 # 《算法设计与分析》课程资料
 
+[算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643)
+
+[算法设计与分析 udemy](https://www.udemy.com/course/hwdongdda/?referralCode=83E54D9C154313393A69)
+
 [课件ppt](https://github.com/hwdong-net/DAA/tree/main/ppt)
 
 # 我的书：
