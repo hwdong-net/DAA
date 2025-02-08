@@ -1,6 +1,6 @@
 # 《算法设计与分析》课程资料 Lectures for the course "Design and Analysis of Algorithms"
 
-[算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643)
+[算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643)  强烈推荐
 
 [算法设计与分析 udemy](https://www.udemy.com/course/hwdongdda/?referralCode=83E54D9C154313393A69)
 
