@@ -36,14 +36,14 @@ def solve_maze(maze, start, end):
 
 # 测试示例
 if __name__ == "__main__":
-     maze = [
-       [0, 0, 0, 0],
-       [0, 1, 1, 0],
-       [0, 0, 0, 0],
-       [1, 0, 1, 0]
+    maze = [
+        [0, 0, 0, 0],
+        [0, 1, 1, 0],
+        [0, 0, 0, 0],
+        [1, 0, 1, 0]
     ]
     start = (0, 0)
-    end = (4, 4)
+    end = (3, 3)
     solution = solve_maze(maze, start, end)
     if solution:
         print("Path found:")
