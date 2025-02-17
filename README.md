@@ -23,6 +23,6 @@ https://www.udemy.com/course/c-gxnkve/?referralCode=631859C266324D94DB28
 解剖深度学习原理-从0编写深度学习库：
 https://www.udemy.com/course/dl_hwdong/?referralCode=60943453055D37DDB9A7
 
-[B站课程](https://space.bilibili.com/281453312/pugv) 推荐
+# [B站课程](https://space.bilibili.com/281453312/pugv) 推荐
 
 [网易云课堂的课程](https://study.163.com/instructor/1030468363.htm?_trace_c_p_k2_=5b763459056b48b785c5f4e64b9467c9) 不推荐
