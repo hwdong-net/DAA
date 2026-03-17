@@ -8,7 +8,7 @@
 
 # 我的书：
 
-《解剖深度学习-从0编写深度学习库》电子版链接： [https://hwdong.net/2023/05/05/myDLBook/](https://hwdong.net/2023/05/05/myDLBook/)
+[《解剖深度学习-从0编写深度学习库》](https://leanpub.com/author/book/dl_0)  
 
 [《现代C++编程实战》 2026](https://leanpub.com/c01)
 
