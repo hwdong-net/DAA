@@ -1,4 +1,6 @@
-# 《算法设计与分析》课程资料 Lectures for the course "Design and Analysis of Algorithms"
+## 《算法设计与分析》课程资料 Lectures for the course "Design and Analysis of Algorithms"
+
+**主讲教材**：《算法设计与分析》2026年编写。购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
 
 [算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643)  强烈推荐
 
