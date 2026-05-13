@@ -1,4 +1,17 @@
-### 我写的5本书
+## 《算法设计与分析》课程资料
+
+**主讲教材**：《算法设计与分析》2026年编写（电子版）  
+购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
+
+- [算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643) —— 强烈推荐
+- [算法设计与分析 Udemy](https://www.udemy.com/course/hwdongdda/?referralCode=83E54D9C154313393A69)
+- [课件 PPT](https://github.com/hwdong-net/DAA/tree/main/ppt)
+
+> 本书系统讲解分治、动态规划、贪心、回溯等经典算法策略，注重思路推导与复杂度分析，适合准备面试、竞赛或夯实内功。
+
+---
+
+### 我写的其他书籍
 
 （没有外国大师的语言文化差异、没有啰嗦的废话，通俗易懂、内容丰富）
 
@@ -22,13 +35,6 @@
 
   ![](https://hwdong-net.github.io/imgs/modern_cpp.png)
 
-+ **《算法设计与分析》**（2026电子版）
-
-  系统讲解分治、动态规划、贪心、回溯等经典算法策略，注重思路推导与复杂度分析，适合准备面试、竞赛或夯实内功。
-  电子版购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
-
-  ![](https://hwdong-net.github.io/imgs/daa.png)
-
 + **《C++17从入门到精通》**（纸质版）
 
   清华大学出版社，2019年8月出版。还在学习传统的C++98标准吗？为什么看不懂工业界的C++代码？本书带小白轻松掌握现代C++17！
@@ -45,17 +51,6 @@
 
 ---
 
-### 《算法设计与分析》课程资料
-
-**主讲教材**：《算法设计与分析》2026年编写。  
-购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
-
-- [算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643) —— 强烈推荐
-- [算法设计与分析 Udemy](https://www.udemy.com/course/hwdongdda/?referralCode=83E54D9C154313393A69)
-- [课件 PPT](https://github.com/hwdong-net/DAA/tree/main/ppt)
-
----
-
 ### 我在Udemy上的课程
 
 我在Udemy上课程的学生人数一直在增长，由于Udemy上的课程价格特别低，所以一直没有分享出来，现在分享出来：
@@ -67,8 +62,3 @@
 ### [B站课程](https://space.bilibili.com/281453312/pugv) 推荐
 
 [网易云课堂的课程](https://study.163.com/instructor/1030468363.htm?_trace_c_p_k2_=5b763459056b48b785c5f4e64b9467c9) 不推荐
-```
-
-
-
-
