@@ -25,8 +25,6 @@
     ![](https://hwdong-net.github.io/imgs/dl_0.png)
     
   - 纸质版：电子工业出版社，2021年7月（国内京东等平台购买）
-
-  ![](https://hwdong-net.github.io/imgs/dl_00.png)
   ![](https://hwdong-net.github.io/imgs/dl_1.jpg)
   ![](https://hwdong-net.github.io/imgs/dl_2.jpg)
 
