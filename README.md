@@ -22,6 +22,8 @@
   你在其他地方看不到对于转置卷积等深入易懂的分析和代码实现。强烈推荐！目前市场上没有比我这本更好的深度学习原理教材！
 
   - 电子版：[https://leanpub.com/dl_0](https://leanpub.com/dl_0)
+    ![](https://hwdong-net.github.io/imgs/dl_0.png)
+    
   - 纸质版：电子工业出版社，2021年7月（国内京东等平台购买）
 
   ![](https://hwdong-net.github.io/imgs/dl_0.png)
