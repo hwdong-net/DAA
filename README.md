@@ -2,6 +2,7 @@
 
 **主讲教材**：《算法设计与分析》2026年编写（电子版）  
 购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
+![](https://hwdong-net.github.io/imgs/daa.png)
 
 - [算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643) —— 强烈推荐
 - [算法设计与分析 Udemy](https://www.udemy.com/course/hwdongdda/?referralCode=83E54D9C154313393A69)
@@ -32,8 +33,7 @@
 
   本书在《C++17从入门到精通》基础上改编，专为零基础读者设计，通过项目案例讲解现代C++（C++11到C++23），内容持续更新。
   电子版购买链接：[https://leanpub.com/c01](https://leanpub.com/c01)（请支持知识劳动成果）
-
-  ![](https://hwdong-net.github.io/imgs/modern_cpp.png)
+  ![](https://hwdong-net.github.io/imgs/c01.png)
 
 + **《C++17从入门到精通》**（纸质版）
 
