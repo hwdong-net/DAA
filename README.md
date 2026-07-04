@@ -1,7 +1,10 @@
 ## 《算法设计与分析》课程资料
 
 **主讲教材**：《算法设计与分析》2026年编写（电子版）  
-购买链接：[https://leanpub.com/daa](https://leanpub.com/daa)
+如何你愿意请我喝杯咖啡，请点击购买链接：[https://leanpub.com/daa](https://leanpub.com/daa) 
+
+如果你想免费获取，请点击：![https://hwdong-net.github.io/dda.pdf](https://hwdong-net.github.io/dda.pdf)
+
 ![](https://hwdong-net.github.io/imgs/daa.png)
 
 - [算法设计与分析 (B站)](https://www.bilibili.com/cheese/play/ss15643) —— 强烈推荐
