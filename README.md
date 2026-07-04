@@ -3,7 +3,7 @@
 **主讲教材**：《算法设计与分析》2026年编写（电子版）  
 如何你愿意请我喝杯咖啡，请点击购买链接：[https://leanpub.com/daa](https://leanpub.com/daa) 
 
-如果你想免费获取，请点击：[https://hwdong-net.github.io/dda.pdf](https://hwdong-net.github.io/dda.pdf)
+如果你想免费获取，请点击：[https://hwdong-net.github.io/dda/dda.pdf](https://hwdong-net.github.io/dda/dda.pdf)
 
 ![](https://hwdong-net.github.io/imgs/daa.png)
 
